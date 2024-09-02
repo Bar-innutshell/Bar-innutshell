@@ -1,11 +1,10 @@
 # Bar-innutshell
 
-<h2 Kenalin Aku sigma >
+<h2>Kenalin Aku sigma</h2>  
 
-<h5 Ingin sigma sepertiku ?, perbanyak lah mewing dengan python >
+<h5 >Ingin sigma sepertiku ?, perbanyak lah mewing dengan python </h5>
 
 
-Aku lvl 1.000.000 
 
 <p align="left">
 <a href="https://github.com/Bar-innutshell">
