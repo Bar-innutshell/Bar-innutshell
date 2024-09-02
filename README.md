@@ -1,4 +1,4 @@
-# Barr-innutshell
+# Bar-innutshell
 
 Kenalin Aku sigma
 Aku lvl 1.000.000 
