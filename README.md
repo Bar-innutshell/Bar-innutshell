@@ -1,6 +1,10 @@
 # Bar-innutshell
 
-Kenalin Aku sigma
+<h2 Kenalin Aku sigma >
+
+<h5 Ingin sigma sepertiku ?, perbanyak lah mewing dengan python >
+
+
 Aku lvl 1.000.000 
 
 <p align="left">
