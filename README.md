@@ -1,5 +1,7 @@
 # Barr-innutshell
+
 Kenalin Aku sigma
+Aku lvl 1.000.000 
 
 <p align="left">
 <a href="https://github.com/Bar-innutshell">
