@@ -1,6 +1,6 @@
 # Bar-innutshell
 
-<h2>Kenalin Aku sigma</h2>  
+<h2>Aku sigma, kamu mewing/h2>  
 
 <h5 >Ingin sigma sepertiku ?, perbanyak lah mewing dengan python </h5>
 
