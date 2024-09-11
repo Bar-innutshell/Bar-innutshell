@@ -2,7 +2,7 @@
 
 <h1>It is what it is</h1> </h1>  
 
-<h5 >Ingin sigma sepertiku ?, perbanyak lah mewing dengan python </h5>
+<h5 >Aku ingin mencitaimu dengan sederhana </h5>
 
 
 
