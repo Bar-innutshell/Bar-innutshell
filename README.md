@@ -1,6 +1,6 @@
 # Bar-innutshell
 
-<h1>Kalau mau sigma,mewing pake python seperti saya</h1> 
+<h1>It is what it is</h1> 
 
 <h5 >Aku ingin mencitaimu dengan sederhana </h5>
 
