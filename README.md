@@ -1,6 +1,6 @@
 # Bar-innutshell
 
-<h1>It is what it is</h1> 
+<h1>It is what it is.</h1> 
 
 <h5 > Andaikan waktu bisa terulang </h5>
 
