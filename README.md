@@ -2,7 +2,7 @@
 
 <h1>It is what it is.</h1> 
 
-<h5 > Andaikan waktu bisa terulang </h5>
+<h5 > harusnya dulu gw ambil kehutanan... </h5>
 
 
 
