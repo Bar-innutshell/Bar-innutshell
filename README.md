@@ -2,7 +2,7 @@
 
 <h1>It is what it is huh ? </h1> 
 
-<h5 > harusnya dulu gw ambil kehutanan... </h5>
+<h5 > Asik kali yak kalo ambil kelautan... </h5>
 
 
 
