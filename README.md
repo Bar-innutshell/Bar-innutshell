@@ -1,7 +1,5 @@
 # Bar-innutshell
 
-<h1>It is what it is huh ? </h1> 
-
 <h5 > ujian hidup dateng terus, kapan lulus nya njir 😂
 </h5>
 
