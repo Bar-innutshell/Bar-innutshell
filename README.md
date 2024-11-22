@@ -1,5 +1,5 @@
 # Bar-innutshell
-Selagi masih bisa bersama.....
+all we need to do is Hang on and still alive, katanya....
 <h5 > ujian hidup dateng terus, kapan lulus nya njir 😂
 </h5>
 
