@@ -1,5 +1,5 @@
 # Bar-innutshell
-Selagi masih bisa bersama....
+Selagi masih bisa bersama.....
 <h5 > ujian hidup dateng terus, kapan lulus nya njir 😂
 </h5>
 
