@@ -1,9 +1,3 @@
-# Bar-innutshell
-Sisanya terserah Allah
-
-<h5 > ujian hidup dateng terus, kapan lulus nya njir 😂
-</h5>
-
 <h2 align="left">Hi 👋! My name is Akbar and I'm a Proggramer, from banten</h2>
 
 ###
@@ -31,7 +25,7 @@ Sisanya terserah Allah
 ###
 
 <div align="left">
-  <a href="mailto:mujakbarr@gmail.com" target="_blank">
+<a href="mailto:mujakbarr@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
   <a href="https://www.linkedin.com/in/muj-akbarr/" target="_blank">
@@ -50,7 +44,6 @@ Sisanya terserah Allah
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Bar-innutshell&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Bar-innutshell&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=Bar-innutshell&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
   <img src="https://github-profile-trophy.vercel.app?username=Bar-innutshell&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bar-innutshell&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
