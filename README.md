@@ -25,7 +25,7 @@
 ###
 
 <div align="left">
-<a href="mailto:mujakbarr@gmail.com" target="_blank">
+  <a href="mailto:mujakbarr@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
   <a href="https://www.linkedin.com/in/muj-akbarr/" target="_blank">
@@ -41,6 +41,8 @@
 
 ###
 
+<br clear="both">
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Bar-innutshell&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Bar-innutshell&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
@@ -50,11 +52,15 @@
 
 ###
 
+<br clear="both">
+
 <div align="center">
   <img height="200" src="https://media.tenor.com/xxPgBuwmddQAAAAi/cat.gif"  />
 </div>
 
 ###
+
+<br clear="both">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Bar-innutshell/Bar-innutshell/output/pacman-contribution-graph-dark.svg">
