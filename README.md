@@ -47,14 +47,14 @@ Sisanya terserah Allah
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Muji_yoo/Muji_yoo/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Bar-innutshell/Bar-innutshell/output/snake.svg" alt="Snake animation" />
 
 ###
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Muji_yoo/Muji_yoo/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Muji_yoo/Muji_yoo/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Muji_yoo/Muji_yoo/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Bar-innutshell/Bar-innutshell/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Bar-innutshell/Bar-innutshell/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Bar-innutshell/Bar-innutshell/output/pacman-contribution-graph.svg">
 </picture>
 
 ###
