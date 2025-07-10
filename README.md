@@ -4,8 +4,13 @@ Sisanya terserah Allah
 <h5 > ujian hidup dateng terus, kapan lulus nya njir 😂
 </h5>
 
-
 <h2 align="left">Hi 👋! My name is Akbar and I'm a Junior Proggramer, from Banten</h2>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=https://github.com/Bar-innutshell/Bar-innutshell.git&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+</div>
 
 ###
 
@@ -51,5 +56,21 @@ Sisanya terserah Allah
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/https://github.com/Bar-innutshell/Bar-innutshell.git/https://github.com/Bar-innutshell/Bar-innutshell.git/output/snake.svg" alt="Snake animation" />
+
+###
+
+<br clear="both">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/https://github.com/Bar-innutshell/Bar-innutshell.git/https://github.com/Bar-innutshell/Bar-innutshell.git/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/https://github.com/Bar-innutshell/Bar-innutshell.git/https://github.com/Bar-innutshell/Bar-innutshell.git/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/https://github.com/Bar-innutshell/Bar-innutshell.git/https://github.com/Bar-innutshell/Bar-innutshell.git/output/pacman-contribution-graph.svg">
+</picture>
 
 ###
