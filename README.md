@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Akbar and I'm a Proggramer, from banten</h2>
+<h2 align="left">Despite everything, it's still you</h2>
 
 ###
 
