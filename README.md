@@ -33,25 +33,6 @@
   </a>
 </div>
 
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Bar-innutshell/Bar-innutshell/output/snake.svg" alt="Snake animation" />
-
-###
-
-<br clear="both">
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Bar-innutshell/Bar-innutshell/output/pacman-contribution-graph-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Bar-innutshell/Bar-innutshell/output/pacman-contribution-graph.svg" />
-    <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/Bar-innutshell/Bar-innutshell/output/pacman-contribution-graph.svg" />
-  </picture>
-</div>
-
-###
 
 ###
 
@@ -80,6 +61,18 @@
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Bar-innutshell.Bar-innutshell&"  />
+</div>
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Bar-innutshell/Bar-innutshell/output/pacman-contribution-graph-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Bar-innutshell/Bar-innutshell/output/pacman-contribution-graph.svg" />
+    <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/Bar-innutshell/Bar-innutshell/output/pacman-contribution-graph.svg" />
+  </picture>
 </div>
 
 ###
