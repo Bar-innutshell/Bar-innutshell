@@ -1,4 +1,4 @@
-name: Generate pacman animation
+name: Generate Pac-Man contribution graph
 
 on:
   schedule:
@@ -17,14 +17,15 @@ jobs:
 
     steps:
       - name: Checkout
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
-      - name: Generate pacman-contribution-graph.svg
+      - name: Generate pacman-contribution-graph SVGs
+        # Using main branch because tagged release not published as GitHub Action version yet
         uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: ${{ github.repository_owner }}
 
-      - name: Push pacman-contribution-graph.svg to output branch
+      - name: Push pacman-contribution-graph SVGs to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
